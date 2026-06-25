@@ -1,0 +1,6 @@
+{
+    "reason": "RateLimited",
+    "message": "Please sign up for a paid plan at https://ipapi.co/pricing or contact us for a trial account",
+    "wait": 1.0,
+    "error": true
+}

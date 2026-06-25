@@ -1,0 +1,15 @@
+{
+    "scheme": "https",
+    "hostname": "example.com",
+    "port": 8080,
+    "path": "/login",
+    "query": "user=ali&id=10",
+    "parameters": {
+        "user": [
+            "ali"
+        ],
+        "id": [
+            "10"
+        ]
+    }
+}

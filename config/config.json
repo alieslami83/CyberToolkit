@@ -1,0 +1,7 @@
+{
+    "theme": "dark",
+    "timeout": 10,
+    "threads": 100,
+    "save_reports": true,
+    "report_format": "json"
+}

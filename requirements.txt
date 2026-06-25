@@ -1,0 +1,9 @@
+rich
+requests
+dnspython
+python-whois
+colorama
+httpx
+beautifulsoup4
+cryptography
+tldextract

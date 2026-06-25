@@ -1,0 +1,14 @@
+{
+    "subject": {
+        "commonName": "*.persianspecter.ir"
+    },
+    "issuer": {
+        "countryName": "US",
+        "organizationName": "Let's Encrypt",
+        "commonName": "YE1"
+    },
+    "version": 3,
+    "serial_number": "05EE3B90124C64BC05921D57781310F01990",
+    "not_before": "May 31 06:28:04 2026 GMT",
+    "not_after": "Aug 29 06:28:03 2026 GMT"
+}

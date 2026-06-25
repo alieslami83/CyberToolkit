@@ -1,0 +1,38 @@
+{
+    "ip": "45.139.11.249",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "continent_code": "AS",
+    "country": "Iran",
+    "country_code": "IR",
+    "region": "Tehran Province",
+    "region_code": "23",
+    "city": "Tehran",
+    "latitude": 35.6891975,
+    "longitude": 51.3889736,
+    "is_eu": false,
+    "postal": "1317947564",
+    "calling_code": "98",
+    "capital": "Tehran",
+    "borders": "AF,AM,AZ,IQ,PK,TM,TR",
+    "flag": {
+        "img": "https://cdn.ipwhois.io/flags/ir.svg",
+        "emoji": "🇮🇷",
+        "emoji_unicode": "U+1F1EE U+1F1F7"
+    },
+    "connection": {
+        "asn": 60631,
+        "org": "Pars Parva System LTD",
+        "isp": "Vandad Vira Hooman LLC",
+        "domain": "parspack.com"
+    },
+    "timezone": {
+        "id": "Asia/Tehran",
+        "abbr": "+0330",
+        "is_dst": false,
+        "offset": 12600,
+        "utc": "+03:30"
+    },
+    "readme": "https://ipwhois.io/docs"
+}

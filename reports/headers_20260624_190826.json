@@ -1,0 +1,13 @@
+{
+    "status_code": 200,
+    "server": null,
+    "content_type": null,
+    "security_headers": {
+        "Content-Security-Policy": "Missing",
+        "Strict-Transport-Security": "Missing",
+        "X-Frame-Options": "Missing",
+        "X-Content-Type-Options": "Missing",
+        "Referrer-Policy": "Missing",
+        "Permissions-Policy": "Missing"
+    }
+}

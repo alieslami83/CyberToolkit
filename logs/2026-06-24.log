@@ -1,0 +1,28 @@
+[14:10:28] Toolkit Started
+[14:15:49] IP Lookup Started -> 1.1.1.1
+[14:15:50] IP Lookup Success -> 1.1.1.1
+[14:18:04] DNS Lookup Started -> persianspecter.ir
+[14:18:07] DNS Lookup Finished -> persianspecter.ir
+[14:21:41] IP Lookup Success -> 8.8.8.8
+[14:22:18] IP Lookup Success -> 45.139.11.249
+[14:22:54] DNS Lookup Started -> persianspecter.ir
+[14:44:16] WHOIS Lookup Started -> persianspecter.ir
+[14:44:20] WHOIS Lookup Finished -> persianspecter.ir
+[14:44:37] IP Lookup Success -> 45.139.11.249
+[14:44:47] DNS Lookup Started -> persianspecter.ir
+[19:05:26] SSL Analysis Started -> persianspecter.ir
+[19:05:27] SSL Analysis Finished -> persianspecter.ir
+[19:08:25] Header Analysis Started -> https://persianspecter.ir
+[19:13:19] Port Scan Started -> 45.139.11.249
+[19:13:20] Port Scan Finished -> 45.139.11.249
+[19:17:07] Technology Detection -> https://persianspecter.ir
+[19:19:29] Technology Detection -> https://persianspecter.ir
+[19:19:41] Technology Detection -> https://google.com
+[19:25:24] Hash Generated
+[19:28:08] Hash Generated
+[19:28:17] Hash Identification Performed
+[19:31:10] Base64 Encode
+[19:31:19] Base64 Decode
+[19:36:04] URL Parsed -> https://persianspecter.ir
+[19:36:38] URL Parsed -> https://example.com:8080/login?user=ali&id=10
+[19:39:18] JWT Decoded

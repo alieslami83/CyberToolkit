@@ -1,0 +1,10 @@
+{
+    "header": {
+        "alg": "HS256",
+        "typ": "JWT"
+    },
+    "payload": {
+        "name": "Ali",
+        "role": "user"
+    }
+}

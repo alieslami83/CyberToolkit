@@ -1,0 +1,20 @@
+{
+    "A": [
+        "45.139.11.249"
+    ],
+    "AAAA": [],
+    "MX": [
+        "10 mail.persianspecter.ir."
+    ],
+    "NS": [
+        "ns1.parspack.co.",
+        "ns3.parspack.co.",
+        "ns2.parspack.co.",
+        "ns4.parspack.co."
+    ],
+    "TXT": [
+        "\"v=spf1 mx a:mailgw-p.getway.biz a:imailgw-p.getway.biz -all\"",
+        "\"google-site-verification=KtR0WC_XepYx_b44wCLxrruYhHIKmxSWjyGCWmCd8jY\""
+    ],
+    "CNAME": []
+}

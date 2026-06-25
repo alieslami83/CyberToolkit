@@ -1,0 +1,38 @@
+{
+    "ip": "1.1.1.1",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Oceania",
+    "continent_code": "OC",
+    "country": "Australia",
+    "country_code": "AU",
+    "region": "New South Wales",
+    "region_code": "NSW",
+    "city": "Sydney",
+    "latitude": -33.8688197,
+    "longitude": 151.2092955,
+    "is_eu": false,
+    "postal": "2000",
+    "calling_code": "61",
+    "capital": "Canberra",
+    "borders": "",
+    "flag": {
+        "img": "https://cdn.ipwhois.io/flags/au.svg",
+        "emoji": "🇦🇺",
+        "emoji_unicode": "U+1F1E6 U+1F1FA"
+    },
+    "connection": {
+        "asn": 13335,
+        "org": "Apnic Research And Development",
+        "isp": "Cloudflare, Inc.",
+        "domain": "cloudflare.com"
+    },
+    "timezone": {
+        "id": "Australia/Sydney",
+        "abbr": "AEST",
+        "is_dst": false,
+        "offset": 36000,
+        "utc": "+10:00"
+    },
+    "readme": "https://ipwhois.io/docs"
+}
