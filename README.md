@@ -59,7 +59,8 @@ main.py
 
 ## Screenshots
 
-Add screenshots here.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5b5e77ca-e17f-451d-88dd-e38c70a9de09" />
+
 
 ## Disclaimer
 
